@@ -1,5 +1,5 @@
 # Table of contents
 
-## Reference
+## Welcome
 
-* [Page 1](README.md)
+* [Quick Start](README.md)
