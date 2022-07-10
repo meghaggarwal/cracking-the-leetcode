@@ -14,12 +14,10 @@ But few of my intentions behind this book were:
 
 ### Language
 
-{% code title="test_cde." %}
 ```python
 if  __name__ == "__main__":
     print("Data Structure and problem solving is language agnostic")
 ```
-{% endcode %}
 
 **So, solutions will be posted in Python3**.  I know majority of repositories are either in C++ or Java,\
 but given the simplicity of Python, it would still be easier to understand if you are from different coding background. ;)
