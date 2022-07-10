@@ -24,7 +24,7 @@ but given the simplicity of Python, it would still be easier to understand if yo
 
 ### Time and Space Complexity
 
-_This is a sample code I would use to denote complexity in entire book:_
+_This is a sample code:_
 
 ```python
 // TC - O(n)
@@ -39,7 +39,7 @@ def test_code(arr):
 \
 Here in the given example, arr takes n space. But this is not considered here to calculate space complexity. _Look at line no, 4-6 in the code block above to calculate extra space complexity_. We have not initiated any new data structure (array, stack) in the memory to solve this problem. So, space complexity remains O(1)
 
-For ease of calculating time complexity, we will look for the number of traversals/iterations made. <mark style="color:orange;">Always try to calculate complexity based on approach.</mark>
+For ease of calculating time complexity, **we will look for the number of traversals/iterations made**. <mark style="color:orange;">Always try to calculate complexity based on approach.</mark>
 
 ### Test Cases & Online Editor
 
