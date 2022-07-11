@@ -2,9 +2,9 @@
 
 This book contains solutions to the leetcode problems.\
 \
-<mark style="color:blue;">**Why this book?**</mark>\
-****\
-****I know many people have already posted repositories for leetcode solutions online.
+<mark style="color:blue;">**Why this book?**</mark>
+
+I know many people have already posted repositories for leetcode solutions online.
 
 But few of my intentions behind this book were:
 
@@ -14,13 +14,13 @@ But few of my intentions behind this book were:
 * Keep it as a public work.
 * Reference solutions for later.
 
-<mark style="color:blue;">**How is this book different than others?**</mark>\
-****\
-****I have tried to structure the content based on certain criteria like patterns, data structures, algorithms and level. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. _Since a problem can belong to muti categories, I have given priority to patterns and algorithms over chosen data structures._\
+<mark style="color:blue;">**How is this book different than others?**</mark>
+
+I have tried to structure the content based on certain criteria like patterns, data structures, algorithms and level. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. _Since a problem can belong to muti categories, I have given priority to patterns and algorithms over chosen data structures._\
 \
 <mark style="color:blue;">**How can I find a particular LC question?**</mark>
 
-Since, the solutions are not posted in order, the reader has to search for particular problem. Luckily, Gitbook have a nice search functionality. You can either look with leetcode question number or problem name.
+Since, the solutions are not in order, the reader has to search for particular problem. Luckily, Gitbook have a nice search functionality. You can either look with leetcode question number or problem name.
 
 ### Language
 
@@ -57,7 +57,7 @@ I have used leetcode compiler to test the code. I have made submissions on leetc
 
 ### Pace of Completion
 
-This is a WIP pretty much. I will keep posting solutions as I move forward.  \
+This is a WIP pretty much. I will keep posting solutions as I move forward.\
 
 
 _This is an open-source work. Please feel free to correct and make any contributions._
