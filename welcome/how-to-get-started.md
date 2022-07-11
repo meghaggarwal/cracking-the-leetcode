@@ -28,4 +28,4 @@ Take one step at a time. Gradually increase your level. Reward yourself to be co
 **Pace**
 
 This journey is a WIP pretty much. I will keep posting solutions as I move forward.  \
-I will create multiple folders based on LC question no and will pick problem starting with simple data structure,\
+I have created multiple folders based on LC question no and will post solutions inside it, picking a problem starting with simple data structure.\
