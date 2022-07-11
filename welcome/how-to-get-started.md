@@ -29,5 +29,4 @@ Practise problems. Don't hurry to write code. Write code only when you are clear
 
 Slowly, you will develop intutions. You will observe patterns and mind mapping to solutions. You will learn new alogrithms, tricks, patterns and build problem-solving skills which could be used to solve new problems.
 
-<mark style="color:blue;">step 4:</mark>\
-Take one step at a time. Gradually increase your level. Reward yourself to be consistent. Peer learning, daily challenge, documentation, teaching are some ways you can do to make this path easier to walk and enjoyable.
+<mark style="color:blue;">step 4:</mark>\ <mark style="color:blue;"></mark>Take one step at a time. Gradually increase your level. Reward yourself to be consistent. Peer learning, daily challenge, documentation, teaching are some ways you can do to make this path easier to walk and enjoyable.
