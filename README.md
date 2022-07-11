@@ -18,9 +18,11 @@ But few of my intentions behind this book were:
 * Keep it as a public work.
 * Reference solutions for later.
 
-<mark style="color:blue;">**How is this book different than others?**</mark>
+<mark style="color:blue;">**How is this different than others repositories?**</mark>
 
-I have tried to structure the content based on certain criteria like patterns, data structures, algorithms and level. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. _Since a problem can belong to muti categories, I have given priority to patterns and algorithms over chosen data structures._\
+Rather than simply posting solutions, I have written brief thoughts and intutions behind to approach the problem. It makes easier to understand next time we revisit the problem.
+
+Ease of navigation and more structured content in form of book. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. \
 \
 <mark style="color:blue;">**How can I find a particular LC question?**</mark>
 
