@@ -17,15 +17,15 @@ _Maybe you can also pick up your motivation and reason for investing time, befor
 
 <mark style="color:blue;">**Practical steps I follow**</mark>
 
-**Our goal here is to not grind leet code questions aimlessly**<mark style="color:orange;">.</mark> We will focus on quality over quantity, and try to get atmost from each problem. \
-\
+**Our goal here is to not grind leet code questions aimlessly**<mark style="color:orange;">.</mark> We will focus on quality over quantity, and try to get atmost from each problem<mark style="color:blue;">.</mark>
+
 <mark style="color:blue;">step 1:</mark>\ <mark style="color:blue;"></mark>Pick the Data Structure, not just randomly. Ordering matters. It is better to start with simpler data structures and get hands-on with complex ones moving forward.
 
-<mark style="color:blue;">step 2:</mark>\
-Read the concepts. I suggest to implement CRUD operations for Data Structure to get better understanding of how it works internally. This would clear your fundamentals and make you more comfortable.  Ex- `Create a linkedlist, add a new node, delete a node, etc.`
+<mark style="color:blue;">step 2:</mark>\ <mark style="color:blue;"></mark>Read the concepts. I suggest to implement CRUD operations for Data Structure to get better understanding of how it works internally. This would clear your fundamentals and make you more comfortable.  Ex- `Create a linkedlist, add a new node, delete a node, etc.`
 
-<mark style="color:blue;">step 3:</mark>\
-__This step is the bread and butter of all your work. Take a leap of faith and be patient.
+<mark style="color:blue;">step 3:</mark>
+
+This step is the bread and butter of all your work. Take a leap of faith and be patient.
 
 Practise problems. Don't hurry to write code. Write code only when you are clear with your approach. Start with brute force approach first. Later, try to optimize.&#x20;
 
