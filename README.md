@@ -1,6 +1,10 @@
 # Quick Guide
 
-This book contains solutions to the leetcode problems.\
+This book contains solutions and guide to solve leetcode problems.
+
+Github Repository - [https://github.com/meghaggarwal/cracking-the-leetcode](https://github.com/meghaggarwal/cracking-the-leetcode)
+
+Gitbook - [https://megha-aggarwal.gitbook.io/cracking-the-leetcode](https://megha-aggarwal.gitbook.io/cracking-the-leetcode)\
 \
 <mark style="color:blue;">**Why this book?**</mark>
 
