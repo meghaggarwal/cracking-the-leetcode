@@ -1,23 +1,22 @@
 # How to Get Started?
 
-<mark style="color:blue;">**Find your why to do**</mark>
+<mark style="color:blue;">**Find your why to do !**</mark>   💁‍♂️ ❓
 
 _There are plenty of jobs in market that do not interview based on DS. I did had 1 too._
 
 Leetcoding was never my cup of tea. I was never consistent, and left things in between.
 
-So, why did I actually want to build problem solving skills all of sudden?\
-\
-\- I had a good enough reason why should I do it.\
+So, why did I actually want to build problem solving skills all of sudden?
+
+\- I had a good enough reason why should I do it. ( which keeps on changing  though 😅 ) \
 \- Good mentor and resources to utilize.
 
-This was my story.\
-\
+This was my story.
 _Maybe you can also pick up your motivation and reason for investing time, before you feel to give up next time._
 
-<mark style="color:blue;">**Practical steps I follow**</mark>
+<mark style="color:purple;">**Practical steps I follow:**</mark>  ✅
 
-**Our goal here is to not grind leet code questions aimlessly**<mark style="color:orange;">.</mark> We will focus on quality over quantity, and try to get atmost from each problem<mark style="color:blue;">.</mark>
+Our goal here is to not grind leet code questions aimlessly. <mark style="color:blue;">We will focus on quality over quantity, and try to get atmost from each problem.
 
 <mark style="color:blue;">step 1:</mark> Pick the Data Structure, not just randomly. Ordering matters. It is better to start with simpler data structures and get hands-on with complex ones moving forward.
 
