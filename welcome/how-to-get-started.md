@@ -6,13 +6,12 @@ _There are plenty of jobs in market that do not interview based on DS. I did had
 
 Leetcoding was never my cup of tea. I was never consistent, and left things in between.
 
-So, why did I actually want to build problem solving skills all of sudden?\
-\
-\- I had a good enough reason why should I do it.\
+So, why did I actually want to build problem solving skills all of sudden?
+
+\- I had a good enough reason why should I do it. ( which keeps on changing  though 😅 ) 
 \- Good mentor and resources to utilize.
 
-This was my story.\
-\
+This was my story.
 _Maybe you can also pick up your motivation and reason for investing time, before you feel to give up next time._
 
 <mark style="color:blue;">**Practical steps I follow**</mark>
