@@ -17,7 +17,9 @@
 * [easy](sliding-window/easy/README.md)
   * [Page 1](sliding-window/easy/page-1.md)
 * [medium](sliding-window/medium/README.md)
-  * [487. Max Consecutive Ones II](487.%20Max%20Consecutive%20Ones%20II.md)
+  * [487.  Max Consecutive Ones II](sliding-window/medium/487.-max-consecutive-ones-ii.md)
+  * [Test Page 3](sliding-window/medium/test-page-3.md)
+  * [Page 2](sliding-window/medium/page-2.md)
 
 ## XOR bitwise
 
