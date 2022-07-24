@@ -12,12 +12,18 @@
   * [Untitled](array/easy/untitled-1.md)
 * [medium](array/medium.md)
 
+
+## string
+
+- [easy](string/easy/README.md)
+  - [242. Valid Anagram](string/easy/242.-valid-anagram.md)
+
 ## sliding window
 
 * [easy](sliding-window/easy/README.md)
   * [Page 1](sliding-window/easy/page-1.md)
 * [medium](sliding-window/medium/README.md)
-  * [487. Max Consecutive Ones II](487.%20Max%20Consecutive%20Ones%20II.md)
+  * [487.  Max Consecutive Ones II](sliding-window/medium/487.-max-consecutive-ones-ii.md)
 
 ## XOR bitwise
 
