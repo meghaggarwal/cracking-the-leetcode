@@ -14,7 +14,7 @@
 
 ## string
 * [easy](string/easy/README.md)
- * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
+  * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
 
 ## sliding window
 
