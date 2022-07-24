@@ -18,6 +18,7 @@ But few of my intentions behind this book were:
 * Reference solutions for later.
 
 ### How is this different than others repositories❓
+
 Rather than simply posting solutions, I have written brief thoughts and intutions behind to approach the problem. It makes easier to understand next time we revisit the problem.
 
 Ease of navigation and more structured content in form of book. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. 
@@ -34,7 +35,7 @@ if  __name__ == "__main__":
 
 I know majority of repositories are either in C++ or Java, but given the simplicity of Python, it would still be easier to understand if you are from different coding background.  Our first major goal is to learn, and I believe language should be no barrier for it.
 
-##### Time and Space Complexity
+#### Time and Space Complexity
 
 _This is a sample code:_
 
