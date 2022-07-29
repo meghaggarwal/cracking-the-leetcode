@@ -15,6 +15,7 @@
 ## string
 * [easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
+  * [387. First Unique Character In A String](string/easy/387.-first-unique-character-in-a-string.md)
 
 ## sliding window
 
