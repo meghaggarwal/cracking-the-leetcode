@@ -16,6 +16,7 @@
 * [easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
   * [387. First Unique Character In A String](string/easy/387.-first-unique-character-in-a-string.md)
+  * [409. Longest Palindrome](string/easy/409.-longest-palindrome.md)
 
 ## sliding window
 
