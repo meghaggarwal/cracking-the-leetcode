@@ -7,7 +7,8 @@ Github Repository - [https://github.com/meghaggarwal/cracking-the-leetcode](http
 Gitbook - [https://megha-aggarwal.gitbook.io/cracking-the-leetcode](https://megha-aggarwal.gitbook.io/cracking-the-leetcode)
 
 ### Why this book❓
-I know many people have already posted repositories for leetcode solutions online. 
+
+I know many people have already posted repositories for leetcode solutions online.
 
 But few of my intentions behind this book were:
 
@@ -21,19 +22,20 @@ But few of my intentions behind this book were:
 
 Rather than simply posting solutions, I have written brief thoughts and intutions behind to approach the problem. It makes easier to understand next time we revisit the problem.
 
-Ease of navigation and more structured content in form of book. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up. 
+Ease of navigation and more structured content in form of book. This will speed up learning and could be useful for spaced repetition, where anyone can revisit the topic they want and brush up.
 
 ### How can I find a particular leetcode question ❓
 
 Since, the solutions are not in order, the reader has to search for particular problem. Luckily, Gitbook have a nice search functionality. You can either look with leetcode question number or problem name.
 
-### Why Python❓
+### Which Language❓
+
 ```python
 if  __name__ == "__main__":
     print("Data Structure and problem solving is language agnostic")
 ```
 
-I know majority of repositories are either in C++ or Java, but given the simplicity of Python, it would still be easier to understand if you are from different coding background.  Our first major goal is to learn, and I believe language should be no barrier for it.
+We focus mainly on building peudo code/intutuion in DSA . Our first major goal is to solve and think, and I believe language should be no barrier for it.  For coding, currently I have used C++, we can add Python or other language code in future :)
 
 #### Time and Space Complexity
 
@@ -52,10 +54,11 @@ def test_code(arr):
 \
 Here in the given example, arr takes n space. But this is not considered here to calculate space complexity. _Look at line no, 4-6 in the code block above to calculate extra space complexity_. We have not initiated any new data structure (array, stack) in the memory to solve this problem. So, space complexity remains O(1).
 
-For ease of calculating time complexity, **we will look for the number of traversals/iterations made**. <mark style="color:purple;">Always try to calculate complexity based on approach.</mark> 
+For ease of calculating time complexity, **we will look for the number of traversals/iterations made**. <mark style="color:purple;">Always try to calculate complexity based on approach.</mark>
 
 ### Test Cases & Online Editor
- I have made submissions on leetcode before posting solutions here.
+
+I have made submissions on leetcode before posting solutions here.
 
 ### Pace of Completion
 

@@ -13,6 +13,7 @@
 * [medium](array/medium.md)
 
 ## string
+
 * [easy](string/easy/README.md)
   * [242. Valid Anagram](string/easy/242.-valid-anagram.md)
   * [387. First Unique Character In A String](string/easy/387.-first-unique-character-in-a-string.md)
@@ -23,9 +24,14 @@
 * [easy](sliding-window/easy/README.md)
   * [Page 1](sliding-window/easy/page-1.md)
 * [medium](sliding-window/medium/README.md)
-  - [3. Longest Substring Without Repeating Characters](sliding-window/medium/3.-longest-substring-without-repeating-characters.md)
+  * [3. Longest Substring Without Repeating Characters](sliding-window/medium/3.-longest-substring-without-repeating-characters.md)
   * [487. Max Consecutive Ones II](sliding-window/medium/487.-max-consecutive-ones-ii.md)
 
 ## XOR bitwise
 
 * [easy](xor-bitwise/easy.md)
+
+## Algorithm
+
+* [breadth first search](algorithm/breadth-first-search.md)
+* [depth first search](algorithm/depth-first-search.md)
