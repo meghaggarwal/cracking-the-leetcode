@@ -35,3 +35,7 @@
 
 * [breadth first search](algorithm/breadth-first-search.md)
 * [depth first search](algorithm/depth-first-search.md)
+
+## Graph Traversals
+
+* [Find if Path Exists in a Graph](graph-traversals/find-if-path-exists-in-a-graph.md)
