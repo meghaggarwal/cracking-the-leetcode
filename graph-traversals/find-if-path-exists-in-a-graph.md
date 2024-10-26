@@ -41,12 +41,12 @@ Given `edges` and the integers `n`, `source`, and `destination`, return `true` _
 * There are no duplicate edges.
 * There are no self edges.
 
-### <mark style="background-color:blue;">**Intution**</mark>
+### <mark style="color:green;">**Intution**</mark>
 
 * We need a graph to represent the edges, since edges can be indirect connected & bi-directional.
 * Use the traversals to find till source become the destination.
 
-### <mark style="background-color:green;">**BFS Pseudo**</mark>
+### <mark style="color:orange;">**BFS Pseudo**</mark>
 
 * push into the queue
 * mark as visited
@@ -55,7 +55,7 @@ Given `edges` and the integers `n`, `source`, and `destination`, return `true` _
 * find all unvisited neighbour nodes of current node and push to queue, mark visited
 * repeat until queue.is not empty
 
-### <mark style="background-color:green;">**DFS Pseudo**</mark>
+### <mark style="color:orange;">**DFS Pseudo**</mark>
 
 * make source node visited
 * iterative through all unvisited neighbours
@@ -74,9 +74,9 @@ Given `edges` and the integers `n`, `source`, and `destination`, return `true` _
 > * **DFS - Make sure to mark node as visited always, before you find its all neighbours.**
 > * **BFS - Make sure to mark node as visited once pushed to queue**.
 
+### <mark style="color:orange;">Coding</mark> 👩‍💻
 
-
-1. <mark style="color:purple;">**Adj Matrix & BFS**</mark>
+#### <mark style="color:purple;">**1.  Adj Matrix & BFS**</mark>
 
 ```cpp
 // TC - O(V2) // traverse whole matrix + O(E) // creating adjMatrix
@@ -119,9 +119,7 @@ public:
 };
 ```
 
-
-
-2. <mark style="color:purple;">**Adj List & DFS**</mark>
+#### <mark style="color:purple;">**2.  Adj List & DFS**</mark>
 
 ```cpp
 // TC - O(2E + V) -> DFS + AdjLIst -> O(V + E) = O(V + E)
@@ -166,7 +164,7 @@ public:
 
 
 
-3. <mark style="color:purple;">**Adj List & BFS**</mark>
+<mark style="color:purple;">**3. Adj List & BFS**</mark>
 
 ```cpp
 // TC - O(2E + V) -> DFS + AdjLIst -> O(V + E) = O(V + E)
@@ -210,7 +208,7 @@ public:
 
 
 
-4. <mark style="color:purple;">**Adj Matrix & DFS**</mark>
+<mark style="color:purple;">**4. Adj Matrix & DFS**</mark>
 
 ```cpp
 
